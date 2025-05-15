@@ -1,0 +1,15 @@
+BAIXAR NO FRONTEND:
+
+- npx shadcn-ui@latest add dropdown-menu
+
+- yarn add framer-motion clsx tailwind-merge
+
+- sites: 
+* https://ui.shadcn.com/docs/components/dropdown-menu
+* https://ui.aceternity.com/components/layout-grid
+
+BAIXAR NO MOBILE:
+
+yarn add react-native-dotenv
+
+
